@@ -1,0 +1,99 @@
+
+How DNS works
+
+HTTPS protocol works 
+
+AWS - load balancer how many and differences - And what layers they work on 
+
+Network Layers 
+
+How do you implement functional and non - functional testing in CI/CD pipeline 
+
+How does NAT gateway work 
+
+Deployment types - what and when do we use 
+
+what is the roll back strategy in CI/CD pipeline 
+
+Different strategies to push code into production 
+
+Terraform state file 
+
+Existing terraform - state file destroyed 
+
+Distributed environment - single state file - how do you work 
+
+Ansible global variables 
+
+roles and playbooks ansible 
+
+private subnet instance - how do you connect to internet 
+
+private vs public subnet  
+
+Is docker secure to run on production 
+ 
+One malicious developer - one container is will take info from others - what can you do to prevent what can docker do or what can you do 
+ 
+Docker pipeline running  - how do you add security 
+ 
+Can you run DB in docker on production 
+ 
+terraform - use case
+ 
+Ansible use case 
+ 
+Terraform reusability 
+ 
+State files - remote - not running issue .
+ 
+Java application - need to deploy in AWS - what do you need to do 
+ 
+Database - how do you implemnt db in cloud 
+ 
+Infra failure - what can you do 
+ 
+Database in house - what is approach to migrate to cloud 
+ 
+Any tools we can use to migrate database 
+ 
+Pipe lines - CI and CD 
+ 
+Difficult java application - how do you run pipeline (stages how do you go from basic to production )
+ 
+How do you select your repository - (is it based on project or your team )
+ 
+GIT branching strategy 
+ 
+How do you approach when you are deploying to containers rather than individual servers 
+ 
+How do you implement security in a CI/CD pipeline - any tools that we can use 
+ 
+How do you approach your infrastructure testing
+ 
+Assigning CIDR values dynamically on different availability zones.
+
+Grafana
+
+Nagios
+
+Prometheus
+
+Question on reverse Proxy .
+
+Database knowledge. Any knowledge on AWS RDS Clients used.
+
+experience on Jenkins.
+ 
+Difference between ansible and terraform
+ 
+ 
+Git :
+ 
+https://martinfowler.com/articles/branching-patterns.html
+ 
+vpc :
+ 
+https://konekti.us/2019/02/20/full-vpc-mesh-with-transit-gateway.html
+ 
+ 
